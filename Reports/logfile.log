@@ -1,0 +1,53 @@
+2023-05-30 11:58:26,007 :INFO : test_create_account :Application loaded successfully..!!
+2023-05-30 11:58:26,870 :INFO : test_create_account :E-mail entered is: a12@gmail.com
+2023-05-30 11:58:26,926 :INFO : test_create_account :Name entered is: ABCD
+2023-05-30 11:58:26,986 :INFO : test_create_account :Password entered is: abc@123
+2023-05-30 11:58:27,656 :INFO : test_create_account :Account Created successfully..!!
+2023-05-30 11:58:28,425 :INFO : test_login :E-mail entered is: a12@gmail.com
+2023-05-30 11:58:28,477 :INFO : test_login :Password entered is: abc@123
+2023-05-30 11:58:31,528 :INFO : test_login :Login successful..!!
+2023-05-30 11:58:35,651 :INFO : test_login :Log in using the same credentials
+2023-05-30 11:58:38,841 :INFO : test_login :Login Successful..!!
+2023-05-30 11:58:39,576 :INFO : test_update_profile :Clicked on Profile Icon
+2023-05-30 11:58:40,050 :INFO : test_update_profile :Updated phone number is: 9876543210
+2023-05-30 11:58:40,122 :INFO : test_update_profile :Updated company name is: ABCD
+2023-05-30 11:58:40,713 :INFO : test_update_profile :Profile updated successfully..!!
+2023-05-30 11:58:40,779 :INFO : test_update_password :Clicked on Change Password Icon
+2023-05-30 11:58:40,826 :INFO : test_update_password :Current Password is entered
+2023-05-30 11:58:40,886 :INFO : test_update_password :New Password is entered
+2023-05-30 11:58:40,947 :INFO : test_update_password :Scrolled to the bottom of the webpage
+2023-05-30 11:58:41,711 :INFO : test_update_password :Password updated successfully..!!
+2023-05-30 11:58:43,476 :INFO : test_create_notes :Clicked on Add Note button
+2023-05-30 11:58:43,507 :INFO : test_create_notes :The Category of the note is selected as: Home
+2023-05-30 11:58:43,542 :INFO : test_create_notes :The Title of the note is: Note 1
+2023-05-30 11:58:43,593 :INFO : test_create_notes :The Description of the note is: Sample Home Note
+2023-05-30 11:58:43,627 :INFO : test_create_notes :Note created successfully
+2023-05-30 11:58:44,697 :INFO : test_create_notes :Clicked on Add Note button
+2023-05-30 11:58:44,738 :INFO : test_create_notes :The Category of the note is selected as: Work
+2023-05-30 11:58:44,779 :INFO : test_create_notes :The Title of the note is: Note 2
+2023-05-30 11:58:44,829 :INFO : test_create_notes :The Description of the note is: Sample Work Note
+2023-05-30 11:58:44,845 :INFO : test_create_notes :Note created successfully
+2023-05-30 11:58:45,912 :INFO : test_create_notes :Clicked on Add Note button
+2023-05-30 11:58:45,960 :INFO : test_create_notes :The Category of the note is selected as: Personal
+2023-05-30 11:58:46,000 :INFO : test_create_notes :The Title of the note is: Note 3
+2023-05-30 11:58:46,058 :INFO : test_create_notes :The Description of the note is: Sample Personal Note
+2023-05-30 11:58:46,076 :INFO : test_create_notes :Note created successfully
+2023-05-30 11:58:46,745 :INFO : test_edit_notes :Home Note edited successfully..!!
+2023-05-30 11:58:47,406 :INFO : test_edit_notes :Work Note edited successfully..!!
+2023-05-30 11:58:48,046 :INFO : test_edit_notes :Personal Note edited successfully..!!
+2023-05-30 11:58:48,597 :INFO : test_mark_completed :Note 3 is marked as completed
+2023-05-30 11:58:50,620 :INFO : test_mark_completed :Note 3 is verified as completed
+2023-05-30 11:58:50,672 :INFO : test_search_notes :Search key is entered as: 1234
+2023-05-30 11:58:50,689 :INFO : test_search_notes :1234 is not present
+2023-05-30 11:58:50,689 :INFO : test_search_notes :Search message is verified
+2023-05-30 11:58:50,761 :INFO : test_search_notes :Search key is entered as: Note 1
+2023-05-30 11:58:50,773 :INFO : test_search_notes :Note 1 is present
+2023-05-30 11:58:50,807 :INFO : test_logout :Log out successful..!!
+2023-05-30 11:58:51,549 :INFO : test_delete_account :Login with the same user
+2023-05-30 11:58:52,602 :INFO : test_delete_account :Email entered is: a12@gmail.com
+2023-05-30 11:58:52,663 :INFO : test_delete_account :Password entered is: abcd@1234
+2023-05-30 11:58:52,693 :INFO : test_delete_account :Login successful..!!
+2023-05-30 11:58:56,409 :INFO : test_delete_account :Clicked on Profile Icon
+2023-05-30 11:58:56,830 :INFO : test_delete_account :Clicked on Delete Account button
+2023-05-30 11:58:56,862 :INFO : test_delete_account :Clicked on Delete button
+2023-05-30 11:58:56,862 :INFO : test_delete_account :Account deleted successfully..!!
